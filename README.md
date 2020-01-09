@@ -1,6 +1,6 @@
 # README #
 
-This created for FLIP01.
+This created for flip01.
 
 ### What is this repository for? ###
 
