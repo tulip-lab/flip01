@@ -42,6 +42,7 @@ You are recommended to use Cloud platform to run the materials, such as:
 | :two: | Preliminary | Machine Learning |   <ul><li>[F1C-00-MLPipeline](F1C-00-MLPipeline.ipynb)</li><li>[F1C-01-MLGridSearch](F1C-01-MLGridSearch.ipynb)</li><li>[F1C-02-MLValidationCurves](F1C-02-MLValidationCurves.ipynb)</li><li>[F1C-03-MLPolyFeaGeneration](F1C-03-MLPolyFeaGeneration.ipynb)</li><li>[F1C-04-MLSampleGenerators](F1C-04-MLSampleGenerators.ipynb)</li></ul>|
 | :three: | Core | Web Scraping |    |
 | :four: | Core | NLP |   <ul><li>[F1E-00-LanguageProcessingandPython](F1E-00-LanguageProcessingandPython.ipynb)</li><li>[F1E-01-AccessingTextCorporaandLexicalResources](F1E-01-AccessingTextCorporaandLexicalResources.ipynb)</li><li>[F1E-02-ProcessingRawText](F1E-02-ProcessingRawText.ipynb)</li><li>[F1E-03-WritingStructuredPrograms](F1E-03-WritingStructuredPrograms.ipynb)</li><li>[F1E-04-CategorizingandTaggingWords](F1E-04-CategorizingandTaggingWords.ipynb)</li><li>[F1E-05-LearningtoClassifyText](F1E-05-LearningtoClassifyText.ipynb)</li><li>[F1E-06-ExtractingInformationfromText](F1E-06-ExtractingInformationfromText.ipynb)</li><li>[F1E-07-AnalyzingSentenceStructure](F1E-07-AnalyzingSentenceStructure.ipynb)</li><li>[F1E-08-BuildingFeatureBasedGrammars](F1E-08-BuildingFeatureBasedGrammars.ipynb)</li><li>[F1E-09-AnalyzingtheMeaningofSentences.ipynb](F1E-09-AnalyzingtheMeaningofSentences.ipynb)</li><li>[F1E-10-ManagingLinguisticData](F1E-10-ManagingLinguisticData.ipynb)</li></ul>   |
+| :five: | Advance | MLflow |    |
 
 
 ## Contributors 
