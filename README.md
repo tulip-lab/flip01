@@ -32,8 +32,8 @@ Prepared by **FLIP01 Team**
 ## Maintainer
 * 2022： [Yang Cao](https://github.com/caoyangcharles), [Baojie Zhang](https://github.com/zhangdabao361)
 * 2021： Siyu Chen
-* 2020： [Mengyue](https://github.com/dmy666)
-* 2019： [Mengyue](https://github.com/dmy666)
+* 2020： [Mengyue Deng](https://github.com/dmy666)
+* 2019： [Mengyue Deng](https://github.com/dmy666)
 * 2018： Shaoni Wang
 
 ---
