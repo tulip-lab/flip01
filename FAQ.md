@@ -35,3 +35,15 @@ FLIP(01)的考核重点是NLP自然语言处理等常用方法的熟练掌握和
 nlp想提升准确率，主要在于文本清洗和模型的选用，可以做进一步更完整的清洗工作，或者尝试word2vec+lstm等较新兴的模型组合。（answered by 徐荣欣）
 
 尝试更换nbc。(answered by 周佳绘)
+
+**5.** 使用word2vec进行词向量转化，放到机器学习模型里边跑，准确率依然不好，是处理的时候存在什么问题吗？
+
+nlp想提升准确率，主要在于文本清洗和模型的选用，可以做进一步更完整的清洗工作，或者尝试word2vec+lstm等较新兴的模型组合。（answered by 徐荣欣）
+
+尝试更换nbc。(answered by 周佳绘)
+
+
+**6.** 使用pyspark机器学习的课程链接？
+
+提供以下参考链接[参考1](https://sparkbyexamples.com/pyspark-tutorial/)。（answered by 葛欢欢）
+
